@@ -13,7 +13,7 @@ jokes = ['My wife told me to stop acting like a flamingo...','I had to put my fo
 
 jokes = [(time.sleep(2), print(i)) for i in jokes]
 
-# Redefines the list to add a time delay and a for loop
+# Uses a list comprehension to iterate through the list with a print and time delay
 '''
 
 
